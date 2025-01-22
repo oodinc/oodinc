@@ -13,4 +13,4 @@ I'm student at Universitas Sebelas Maret<br>I'm learning front-end developer and
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=oodinc&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-It's not a bug, it's a feaure.
+It's not a bug, it's a feature.
