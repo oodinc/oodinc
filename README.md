@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm student at Universitas Sebelas Maret<br>I'm learning front-end developer and graphic design<br>I like art<br>
+I'm student at Universitas Sebelas Maret<br>I'm learning front-end back-end website developer and graphic design<br>I like art<br>
 
 
 ## 🌐 Socials:
